@@ -1,0 +1,13 @@
+package com.hasan;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JmsProj03SmartTvReceiverApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JmsProj03SmartTvReceiverApplication.class, args);
+	}
+
+}
